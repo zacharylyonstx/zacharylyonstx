@@ -28,4 +28,8 @@ AI automation agency helping businesses replace repetitive work with AI.
 
 ---
 
-💖 If my tools save you time: [GitHub Sponsors](https://github.com/sponsors/zacharylyonstx)
+### 💖 Support
+
+If my tools save you time:
+- [GitHub Sponsors](https://github.com/sponsors/zacharylyonstx)
+- ₿ Bitcoin: `bc1qshgk2p79jg34ax3lpywqj47fpcrqzsma95gesw`

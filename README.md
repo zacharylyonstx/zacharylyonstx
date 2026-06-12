@@ -1,6 +1,20 @@
 # Hey, I'm Zak 👋
 
-Software engineer building **free, zero-dependency developer tools** that actually work.
+Senior healthcare engineer. I build software for the hardest rooms in healthcare — emergency departments and recovery floors.
+
+## 🌿 MilieuOS — what I'm building now
+
+**[milieuos.com](https://www.milieuos.com)** — the calm orientation layer for residential addiction-treatment facilities that let patients keep their phones.
+
+- **Patient side:** today's schedule, answers grounded *only* in the facility's approved handbook (never the open web), private encrypted journaling, one-tap crisis escalation that reaches staff in the same transaction
+- **Staff side:** real-time alert dashboard, shift-handoff export, append-only audit log
+- **Stack:** Django 5 · Next.js 15 · Postgres + pgvector · Celery — built solo, 280+ backend tests, [live demo](https://www.milieuos.com/select)
+- **Why:** in early 2025 I was a patient in one of these facilities. Sober since. This is my contribution back → [the story](https://www.milieuos.com/about)
+
+## 🏥 Healthcare track record
+
+- **Jaspr Health** — crisis telehealth platform deployed inside active hospital emergency departments
+- **Take Command Health** — first-to-market ICHRA compliance platform on Django, built from scratch under federal regulatory deadlines
 
 ## ⚡ Dev Toolkit — 9 CLI Tools
 
@@ -28,8 +42,4 @@ AI automation agency helping businesses replace repetitive work with AI.
 
 ---
 
-### 💖 Support
-
-If my tools save you time:
-- [GitHub Sponsors](https://github.com/sponsors/zacharylyonstx)
-- ₿ Bitcoin: `bc1qshgk2p79jg34ax3lpywqj47fpcrqzsma95gesw`
+📫 **zacharylyonstx@gmail.com** · [LinkedIn](https://www.linkedin.com/in/zacharylyonstx) · [GitHub Sponsors](https://github.com/sponsors/zacharylyonstx)
